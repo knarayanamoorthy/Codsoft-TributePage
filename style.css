@@ -68,3 +68,7 @@ body {
 .bio hr {
     margin-top: 2rem;
 }
+footer .credit{
+    text-align: center;
+    padding: 3rem 2rem;
+}
